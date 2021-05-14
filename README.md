@@ -1,2 +1,4 @@
-# Random-Phrases
-Web application that generated phrases for your social media post. It has differents types of phrases like romantic, songs... 
+"# randomphrases.github.io" 
+# randomphrases.github.io
+# testing
+
